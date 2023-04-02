@@ -45,7 +45,7 @@ session_start();
           
           <input type="email" placeholder="Email" />
           <input type="password" placeholder="Senha" />
-          <a href="#">Esqueceu sua senha?</a>
+          <a href="recuperacaoSenha.html">Esqueceu sua senha?</a>
           <button type="button" class="criarbot">Entrar</button>
         </form>
       </div>

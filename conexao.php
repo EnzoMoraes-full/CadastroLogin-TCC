@@ -32,4 +32,24 @@ echo "Dados salvos com sucesso";
 
 
 
+<div class="divpai">
+    <div class="conteudo-main">
+        
+        <br>
+        <br>
+        <h1>Recuperação de senha</h1>
+        <br>
+    <h4>Preencha os dados para recuperação de senha</h4>
+    <br>
+    <div class="conteudo-main-dados">
+        <span>E-mail</span>
+        <br>
+        <input type="text" id="recu">
+        <br>
+        <button type="submit">Recuperar</button>
+    </div>
+    </div>
+</div>
+
+
 
